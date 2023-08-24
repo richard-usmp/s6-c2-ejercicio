@@ -1,0 +1,19 @@
+.navigation__list {
+  height: 50px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+}
+.navigation__list__item {
+  padding-left: 2rem;
+}
+.navigation__list__item__link {
+  color: white;
+}
+
+body {
+  background-color: rgb(89, 0, 255);
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+}/*# sourceMappingURL=styles.css.map */

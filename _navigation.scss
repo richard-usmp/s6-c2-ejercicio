@@ -1,0 +1,17 @@
+.navigation {
+    &__list {
+        height: 50px;
+        background-color: black;
+        display: flex;
+        align-items: center;
+
+        &__item {
+            padding-left: 2rem;
+
+            &__link {
+                color: white;
+
+            }
+        }
+    }
+}
